@@ -20,7 +20,7 @@ jobs:
     name: Start Exercise
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.9.1
     with:
-      exercise-title: "Playwright com Copilot: MCP, Skills e TDD"
+      exercise-title: "Playwright com Copilot — MCP, Skills e TDD"
       intro-message: "Bem-vindo(a)! 🎭🤖 Neste exercício você vai aprender, passo a passo, a escrever testes E2E com Playwright guiado pelo GitHub Copilot — usando MCP, Skills e o ciclo TDD. Vamos lá!"
 
   post_next_step_content:

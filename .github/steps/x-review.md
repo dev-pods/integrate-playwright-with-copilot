@@ -1,16 +1,22 @@
-## Review
+## Revisão 🎉
 
-_Congratulations, you've completed this exercise and learned a lot about (replace-me: feature/product that was taught in this exercise)
+**Parabéns!** Você concluiu o exercício **Playwright com Copilot: MCP, Skills e TDD**.
 
-<img src="https://octodex.github.com/images/jetpacktocat.png" alt="celebrate" width=200 align=right>
+### O que você fez
 
-Here's a recap of your accomplishments:
+1. Abriu um **Codespace** pronto, com Node.js, Playwright e Chromium.
+2. Conectou o **Playwright MCP** ao Copilot — agora o agente pode abrir um navegador real.
+3. Criou um **`.github/copilot-instructions.md`** (uma “Skill” do projeto) ensinando convenções de TDD e locators ao Copilot.
+4. Aplicou **TDD** de verdade:
+   - 🔴 **RED:** escreveu um teste E2E que falhou.
+   - 🟢 **GREEN:** implementou o mínimo de HTML/JS para o teste passar.
+   - ♻️ **Refactor:** opcionalmente melhorou o código mantendo o teste verde.
+5. Configurou um **GitHub Actions** que roda os testes a cada push.
 
-- (replace-me: Accomplishment #1)
-- (replace-me: Accomplishment #N)
+### Próximos passos sugeridos
 
-### What's next?
+- Adicione um teste para o caminho **negativo** (e-mail inválido → mensagem de erro).
+- Explore o [Playwright Trace Viewer](https://playwright.dev/docs/trace-viewer) para depurar testes — peça ao Copilot para te ensinar.
+- Compartilhe seu repositório com colegas e proponha desafios novos para a IA. 🚀
 
-- (replace-me: Natural follow up Skills exercise - if there is one)
-- (replace-me: Documentation link to learn more about the feature)
-- (replace-me: Other resources or calls to action)
+> Se este exercício foi útil, dá uma estrela ⭐ no repositório original!

@@ -28,7 +28,7 @@ Neste exercício você vai:
 
 Copie o exercício para sua conta clicando no botão abaixo e dê cerca de **20 segundos** para a Mona preparar a primeira lição. Depois, **atualize a página**.
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=diegoccastano-invillia&template_name=integrate-playwright-with-copilot&owner=%40me&name=skills-playwright-com-copilot&description=Exerc%C3%ADcio:+Playwright+com+Copilot+(MCP+%2B+Skills+%2B+TDD)&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=dev-pods&template_name=integrate-playwright-with-copilot&owner=%40me&name=skills-playwright-com-copilot&description=Exerc%C3%ADcio:+Playwright+com+Copilot+(MCP+%2B+Skills+%2B+TDD)&visibility=public)
 
 <details>
 <summary>Tendo problemas? 🤷</summary><br/>

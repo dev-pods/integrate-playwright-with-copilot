@@ -19,7 +19,7 @@ Bom trabalho! Agora vamos dar **dois superpoderes** ao Copilot:
      "servers": {
        "playwright": {
          "command": "npx",
-         "args": ["@playwright/mcp@latest"]
+         "args": ["@playwright/mcp@latest", "--headless", "--no-sandbox"]
        }
      }
    }
